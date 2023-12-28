@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.imgCarro {
+  width: 5%;
+}
+.btn {
+  background-color: rgb(35, 218, 35);
+  color: bisque;
+  padding: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 15%;
+  border-radius: 10px;
+}
+.saludo{
+  color: chocolate;
+}
